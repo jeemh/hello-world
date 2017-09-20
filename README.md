@@ -6,3 +6,5 @@ Just learning to use GitHub.
 Learning some more.
 
 Just testing this.
+
+Just figuring out how branches work.
